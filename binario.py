@@ -28,17 +28,3 @@ binario.reverse()
     
 print (binario)
 print ("Nº de iterações: ", i)
-=========================================================================
-bi =[]
-vi = input("fala garoto: ")
-vi = int(vi)
-if (64 <= vi):
-    vi = int(vi-64)
-    bi.append(1)
-else:
-    bi.append(0)
-
-    
-
-print (bi)
-print (vi)
